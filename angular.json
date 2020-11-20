@@ -149,5 +149,8 @@
       }
     }
   },
-  "defaultProject": "mascotaDeVueltaAngular"
+  "defaultProject": "mascotaDeVueltaAngular",
+  "cli": {
+    "analytics": false
+  }
 }
